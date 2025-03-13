@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 export default function SettingsPage() {
   return (
     <div className="flex min-h-screen flex-col space-y-6">
