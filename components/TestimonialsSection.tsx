@@ -7,21 +7,21 @@ export default function TestimonialsSection() {
       role: "CEO, TechStart",
       quote:
         "This dashboard has completely transformed how we track our business metrics. The interface is intuitive and the insights are invaluable. We've increased our revenue by 27% since implementing DashPro.",
-      image: "/placeholder.svg?height=100&width=100",
+      image: "/man.png",
     },
     {
       name: "Michael Chen",
       role: "CTO, DataFlow",
       quote:
         "The real-time analytics have helped us identify trends and make data-driven decisions faster than ever before. The AI-powered insights are like having an extra analyst on the team.",
-      image: "/placeholder.svg?height=100&width=100",
+      image: "/man.png",
     },
     {
       name: "Jennifer Lopez",
       role: "COO, Enterprise Global",
       quote:
         "We evaluated several dashboard solutions before choosing DashPro, and it was the best decision we made. The customizable reports, team collaboration features, and enterprise-grade security have made it an essential tool for our entire organization.",
-      image: "/placeholder.svg?height=100&width=100",
+      image: "/man.png",
     },
   ];
 

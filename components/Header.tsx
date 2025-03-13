@@ -3,7 +3,7 @@ import { FaChartLine } from "react-icons/fa";
 
 export default function Header() {
   return (
-    <header className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60">
+    <header className="sticky top-0 z-50 w-full bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60">
       <div className="container mx-auto flex h-16 items-center space-x-4 sm:justify-between sm:space-x-0 px-4">
         <div className="flex gap-6 md:gap-10">
           <Link href="/" className="flex items-center space-x-2">
